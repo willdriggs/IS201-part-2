@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(242, 232, 219);
+    font-family: cursive;
+    text-align: center;
+    border: 10px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.emphasizedText{
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: underline;
+}
+.common{
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+}
+#top{
+    text-decoration: underline;
+}
+p{
+    font-style: oblique;
+}
+.bullets{
+    font-style: italic;
+    color: darkblue;
+}
+.title{
+    color: darkblue;
+}
